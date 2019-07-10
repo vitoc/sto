@@ -19,8 +19,13 @@ For the last item above, please actually send an invite to your human onboarding
 
 * [Communicating with Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 * [Forking projects](https://guides.github.com/activities/forking/)
+* Assignment: Fork this project, add ticks on the RHS (right hand side) of sprints and tasks that you'd completed
 
 ### Sprint 3: Getting familiar with VS Code as an IDE
+
+* [Download and install VS Code](https://code.visualstudio.com/download)
+* Clone this repository locally using VS Code
+* Make a local change and push it back with VS Code
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
