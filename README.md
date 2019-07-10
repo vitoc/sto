@@ -19,7 +19,7 @@ For the last item above, please actually send an invite to your human onboarding
 
 * - [ ] [Communicating with Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 * - [x] [Forking projects](https://guides.github.com/activities/forking/)
-* - [x] Assignment: Fork this project, add ticks on the RHS (right hand side) of sprints and tasks that you'd completed 
+* - [ ] Assignment: Fork this project, add ticks on the RHS (right hand side) of sprints and tasks that you'd completed 
 
 ### Sprint 3: Getting familiar with VS Code as an IDE
 
