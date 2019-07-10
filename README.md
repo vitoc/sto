@@ -24,8 +24,17 @@ For the last item above, please actually send an invite to your human onboarding
 ### Sprint 3: Getting familiar with VS Code as an IDE
 
 * [Download and install VS Code](https://code.visualstudio.com/download)
-* Clone this repository locally using VS Code
-* Make a local change and push it back with VS Code
+* [Clone the fork of this repository locally using VS Code](https://code.visualstudio.com/docs/editor/versioncontrol#_cloning-a-repository)
+* [Learn how to bring up the Integrated Terminal in VS Code](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+### Sprint 4
+
+* Continuing from the previous sprint, make a local edit in VS Code by adding the
+  keyboard shortcut to open the Integrated Terminal here:
+```
+REPLACE WITH KEYBOARD SHORTCUT
+```
+
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
