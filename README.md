@@ -43,7 +43,11 @@ $ git pull upstream master
 * Do: Continuing from the previous sprint, make a local edit in VS Code by adding the
   keyboard shortcut to open the Integrated Terminal here:
 ```
-REPLACE WITH KEYBOARD SHORTCUT
+{
+  "key": "ctrl+`",
+  "command": "workbench.action.terminal.sendSequence",
+  "args": { "text": "\u001b[1;5D\u0060" }
+}
 ```
 * Do: [Commit and push this back to your forked repository.](https://code.visualstudio.com/docs/editor/versioncontrol#_commit)
 
