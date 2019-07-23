@@ -16,7 +16,8 @@ For the last item above, please actually send an invite to your human onboarding
 
 * Read: [Communicating with Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 * Read: [Forking projects](https://guides.github.com/activities/forking/)
-* Do: Fork this project, replace the bullet points for tasks within this document with ticks on tasks that you'd completed
+* Do: Fork this project, replace the bullet points for tasks within this document with ticks on tasks that you'd completed (You can just use the edit functio in GitHub to do this).
+
 
 ### Sprint 3: Getting familiar with VS Code as an IDE
 
@@ -65,11 +66,16 @@ $ npm --version
 
 ### Sprint 8 Create a front-end
 
-* Do: Clone ```https://github.com/vitoc/react-redux-jwt-authentication-example.git```
+* Do: Clone ```https://github.com/vitoc/rad```
 > Please clone this to a separate directory, do not clone this within the ```stoo``` directory
+<<<<<<< HEAD
 * Do: Rename the project directory to ```stoo-frontend```
 * Create a repository on GitHub named ```stoo-front-end```
 * Add the created repository as a remote on your local ```stoo-frontend```
+=======
+* Do: Follow through the Mods in the repository.
+> By following the demo, you should arrive at a functional login / logout app
+>>>>>>> 92a9ae7007a43237b165d2b3a5d0d5bd07b7d065
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
