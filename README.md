@@ -1,8 +1,6 @@
 # Sprint-based Technical Onboarding Objectives
 
-Get technically onboarded to the Microsoft Azure approach to field-based development work in 6 sprints :)
-Each sprint is planned for a week. We review the onboarding outcome on the Thursday of every week, and set about 
-talking about the next sprint if all is well.
+Get technically onboarded to the Microsoft Azure approach to field-based development work in sprints :)
 
 ## Sprints
 
@@ -47,14 +45,31 @@ REPLACE WITH KEYBOARD SHORTCUT
 ```
 * Do: [Commit and push this back to your forked repository.](https://code.visualstudio.com/docs/editor/versioncontrol#_commit)
 
-### Sprint 6 Create a front-end
+### Sprint 6 Node.js and NPM
+
+* Do: [Download and install LTS version of Node.js](https://nodejs.org/en/)
+* Do: Check that Node.js is installed
+```
+$ node --version
+```
+* Do: Check that NPM is installed
+```
+$ npm --version
+```
+
+### Sprint 7 Understand the Agile manifesto
+
+* Read: [The Agile Manifesto](https://agilemanifesto.org/)
+* Read: [Principles behind the Agile Manifesto] (https://agilemanifesto.org/principles.html)
+* Read: [What is Scrum?] (https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-scrum)
+
+### Sprint 8 Create a front-end
 
 * Do: Clone ```https://github.com/vitoc/react-redux-jwt-authentication-example.git```
 > Please clone this to a separate directory, do not clone this within the ```stoo``` directory
 * Do: Rename the project directory to ```stoo-frontend```
 * Create a repository on GitHub named ```stoo-front-end```
 * Add the created repository as a remote on your local ```stoo-frontend```
-
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
