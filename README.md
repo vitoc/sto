@@ -1,4 +1,4 @@
-# Sprint-based Technical Onboarding Objectives
+# Sprint-based Technical Onboarding
 
 Get technically onboarded to the Microsoft Azure approach to field-based development work in sprints :)
 
