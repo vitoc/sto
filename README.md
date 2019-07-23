@@ -68,14 +68,8 @@ $ npm --version
 
 * Do: Clone ```https://github.com/vitoc/rad```
 > Please clone this to a separate directory, do not clone this within the ```stoo``` directory
-<<<<<<< HEAD
-* Do: Rename the project directory to ```stoo-frontend```
-* Create a repository on GitHub named ```stoo-front-end```
-* Add the created repository as a remote on your local ```stoo-frontend```
-=======
 * Do: Follow through the Mods in the repository.
 > By following the demo, you should arrive at a functional login / logout app
->>>>>>> 92a9ae7007a43237b165d2b3a5d0d5bd07b7d065
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
