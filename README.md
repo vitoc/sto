@@ -1,6 +1,8 @@
 # Sprint-based Technical Onboarding Objectives
 
-Get technically onboarded to the Microsoft Azure approach to field-based development work in sprints :)
+This is the approach that I use to onboard someone to a technical developer/architect role.
+
+> This is an opinionated approach with a skew towards Node.js, React, GitHub,  Azure and Office.
 
 ## Sprints
 
@@ -10,7 +12,7 @@ Get technically onboarded to the Microsoft Azure approach to field-based develop
 * Read: [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * Do: [Schedule the next sprint review with Outlook](https://support.office.com/en-us/article/schedule-a-meeting-with-other-people-5c9877bc-ab91-4a7c-99fb-b0b68d7ea94f)
 
-For the last item above, please actually send an invite to your human onboarding guide :)
+For the last item above, please actually send an invite to your human onboarding guide :) I.e. me :)
 
 ### Sprint 2: Collaborating and communicating around code
 
@@ -61,15 +63,23 @@ $ npm --version
 ### Sprint 7 Understand the Agile manifesto
 
 * Read: [The Agile Manifesto](https://agilemanifesto.org/)
-* Read: [Principles behind the Agile Manifesto] (https://agilemanifesto.org/principles.html)
-* Read: [What is Scrum?] (https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-scrum)
+* Read: [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+* Read: [What is Scrum?](https://docs.microsoft.com/en-us/azure/devops/learn/agile/what-is-scrum)
 
-### Sprint 8 Create a front-end
+### Sprint 8 React immersion 
+
+* Do: [Go through (via Codepen) the Step-by-Step Guide to React](https://reactjs.org/docs/hello-world.html)
+* Do: [Go through Jason Watmore's NodeJS - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with-example-api)
+* Do: [Go through Json Watmore's React + Redux - JWT Authentication Tutorial & Example](https://jasonwatmore.com/post/2017/12/07/react-redux-jwt-authentication-tutorial-example)
+
+### Sprint 9 Create a front-end
 
 * Do: Clone ```https://github.com/vitoc/rad```
 > Please clone this to a separate directory, do not clone this within the ```stoo``` directory
 * Do: Follow through the Mods in the repository.
 > By following the demo, you should arrive at a functional login / logout app
+
+### Sprint 10 
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
