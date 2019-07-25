@@ -1,4 +1,4 @@
-# Sprint-based Technical Onboarding Objectives
+# Sprint-based Technical Onboarding
 
 This is the approach that I use to onboard someone to a technical developer/architect role.
 
