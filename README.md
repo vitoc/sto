@@ -75,11 +75,16 @@ $ npm --version
 ### Sprint 9 Create a front-end
 
 * Do: Clone ```https://github.com/vitoc/rad```
-> Please clone this to a separate directory, do not clone this within the ```stoo``` directory
+> Please clone this to a separate directory, do not clone this within the ```sto``` directory
 * Do: Follow through the Mods in the repository.
 > By following the demo, you should arrive at a functional login / logout app
 
 ### Sprint 10 
+
+* Do: [Deploy a website to Azure App Service using the VSCode extension](https://code.visualstudio.com/tutorials/app-service-extension/getting-started)
+* Do: Apply similar method to deploy ```node-jwt-authentication-api``` to Azure App Service
+
+> ```app.js``` and ```bin\www``` helps make ```node-jwt-authentication-api``` work on Azure App Service
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
