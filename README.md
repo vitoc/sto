@@ -83,8 +83,18 @@ $ npm --version
 
 * Do: [Deploy a website to Azure App Service using the VSCode extension](https://code.visualstudio.com/tutorials/app-service-extension/getting-started)
 * Do: Apply similar method to deploy ```node-jwt-authentication-api``` to Azure App Service
+* Do: Check that your deployed app returns:
+
+```{"message":"Invalid Token"}```
+
+going to the root route. It should return the following going to ```/token``` via GET:
+
+```Cannot GET /token```
+
+This is because ```/token``` only functions with a POST.
 
 > ```app.js``` and ```bin\www``` helps make ```node-jwt-authentication-api``` work on Azure App Service
+
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
