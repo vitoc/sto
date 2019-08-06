@@ -95,6 +95,12 @@ This is because ```/token``` only functions with a POST.
 
 > ```app.js``` and ```bin\www``` helps make ```node-jwt-authentication-api``` work on Azure App Service
 
+### Sprint 10b (Optional)
+
+This is an optional sprint to take if you're keen to run your the app on the App Service instance from the previous sprint optimally 24/7
+
+* Read: Azure App Service plan overview (https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans)
+* Do: Change the pricing tier for the App Service plan that the instance in the previous sprint reside in from F1 (free) to B1.
 
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
