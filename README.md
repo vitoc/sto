@@ -118,7 +118,7 @@ $ npm run build
 
 * Do: Obtain the URL of the deployment from the previous sprint:
 
-![Storage website](/images/storage_website.png)
+![Storage website](/images/storage_website.PNG)
 
 * Do: Replace the ```frontendUrl``` in  ```config.json``` of ```node-jwt-authentication-api``` with the URL from the previous sprint AND path ```/login``` postfixed.
 * Do: Deploy ```node-jwt-authentication-api``` again to the appropriate Azure App Service
