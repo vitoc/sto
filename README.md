@@ -104,7 +104,7 @@ This is an optional sprint to take if you're keen to run your the app on the App
 
 ### Sprint 11
 
-* Do: [Deploy a static website to Azure](https://code.visualstudio.com/tutorials/app-service-extension/getting-started)
+* Do: [Deploy a static website to Azure](https://code.visualstudio.com/tutorials/static-website/getting-started)
 * Do: Build ```react-redux-jwt-authentication-tutorial-example```. Within the directory:
 
 ```
