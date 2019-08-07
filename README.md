@@ -102,6 +102,27 @@ This is an optional sprint to take if you're keen to run your the app on the App
 * Read: Azure App Service plan overview (https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans)
 * Do: Change the pricing tier for the App Service plan that the instance in the previous sprint reside in from F1 (free) to B1.
 
+### Sprint 11
+
+* Do: [Deploy a static website to Azure](https://code.visualstudio.com/tutorials/app-service-extension/getting-started)
+* Do: Build ```react-redux-jwt-authentication-tutorial-example```. Within the directory:
+
+```
+$ npm run build
+```
+* Do: Apply similar method to deploy ```react-redux-jwt-authentication-tutorial-example``` to Azure Storage
+
+> You may need to do ```npm install -g webpack-cli``` if this isn't already installed
+
+### Sprint 12
+
+* Do: Obtain the URL of the deployment from the previous sprint:
+
+![Storage website](/images/storage_website.png)
+
+* Do: Replace the ```frontendUrl``` in  ```config.json``` of ```node-jwt-authentication-api``` with the URL from the previous sprint AND path ```/login``` postfixed.
+* Do: Deploy ```node-jwt-authentication-api``` again to the appropriate Azure App Service
+
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
 * [GitHub Training & Guides](https://www.youtube.com/githubguides)
