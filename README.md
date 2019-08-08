@@ -123,6 +123,12 @@ $ npm run build
 * Do: Replace the ```frontendUrl``` in  ```config.json``` of ```node-jwt-authentication-api``` with the URL from the previous sprint AND path ```/login``` postfixed.
 * Do: Deploy ```node-jwt-authentication-api``` again to the appropriate Azure App Service
 
+### Sprint 13
+
+* Read: [Hosting a React JS single page application on Azure Blob Storage & Azure CDN for SSL and to rewrite client routing traffic to the default document](https://medium.com/@antbutcher89/hosting-a-react-js-app-on-azure-blob-storage-azure-cdn-for-ssl-and-routing-8fdf4a48feeb)
+* Do: Add a CDN to the deployment in Sprint 12, configure the endpoint and rules as per above
+* Please: Wait for 5 hours before the added endpoint and the rules to propagate
+
 ## Optional and additional resources
 * [GitHub Learning Lab](https://lab.github.com/)
 * [GitHub Training & Guides](https://www.youtube.com/githubguides)
