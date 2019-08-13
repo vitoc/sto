@@ -131,7 +131,7 @@ $ npm run build
 ![Custom origin](/images/CustomOrigin.PNG)
 
 * Please: Wait for 5 hours before the added endpoint and the rules to propagate
-* Do: Change the ```frontendUrl``` in ```config.json``` from ```node-jwt-authentication-api``` to use the login URL with the new CDN from the previous sprint in place. I.e. if you have the value of ```frontendUrl``` as ```https://fkycstatic.z23.web.core.windows.net/login```, this should now be ```https://fkyc.azureedge.net/login```.
+* Do: Change the ```frontendUrl``` in ```config.json``` from ```node-jwt-authentication-api``` to use the login URL with the new CDN-based URL from the previous sprint in place. I.e. if you have the value of ```frontendUrl``` as ```https://fkycstatic.z23.web.core.windows.net/login```, this should now be ```https://fkyc.azureedge.net/login```.
 
 > Make sure the ```/login``` route is in place!
 
